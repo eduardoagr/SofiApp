@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+    <string name="search">Search</string>
+    <string name="what_do_you_want_to_search_for">What do you want to search for?</string>
+    <string name="image_data">Image_Data</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
